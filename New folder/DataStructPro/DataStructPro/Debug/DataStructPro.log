@@ -1,0 +1,4 @@
+﻿  Input-Output File.cpp
+d:\cmp1\data structure\project\final-version\new folder\datastructpro\datastructpro\utility.h(38): warning C4005: 'FOREGROUND_BLUE' : macro redefinition
+          c:\program files (x86)\windows kits\8.0\include\um\wincon.h(179) : see previous definition of 'FOREGROUND_BLUE'
+  DataStructPro.vcxproj -> D:\CMP1\Data Structure\Project\Final-version\New folder\DataStructPro\Debug\DataStructPro.exe

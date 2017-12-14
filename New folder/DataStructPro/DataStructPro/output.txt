@@ -1,0 +1,28 @@
+KTS	S	FD	KD	FT
+12	5	0	6	6
+20	1	0	19	19
+23	25	0	20	20
+23	26	0	20	20
+28	17	0	25	25
+29	16	0	26	26
+29	19	0	26	26
+30	3	0	27	27
+35	8	0	24	24
+42	11	5	21	26
+44	12	0	26	26
+44	2	0	42	42
+56	4	0	52	52
+58	14	0	37	37
+64	13	0	44	44
+70	15	34	13	47
+71	10	0	56	56
+85	9	11	61	72
+88	7	0	79	79
+T1_Total_Damage	T2_Total_Damage	T3_Total_Damage	T4_Total_Damage
+0  	3.56437  	2.77636  	7.5638  	
+R1_Distance	R2_Distance	R3_Distance	R4_Distanc
+30		14		24		30		
+Game Is Win
+Total Enemies	= 19
+Average Fight Delay	= 0
+Average Kill Delay	= 2.63158

@@ -1,0 +1,25 @@
+﻿  lists.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+  listOperations.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+  Simulation.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+  Main.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+  Input-Output File.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+  Enemy motion.cpp
+c:\users\mohammed\desktop\final\lastversion\utility.h(38): warning C4005: 'FOREGROUND_BLUE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wincon.h(179): note: see previous definition of 'FOREGROUND_BLUE'
+c:\users\mohammed\desktop\final\lastversion\enemy motion.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mohammed\desktop\final\lastversion\enemy motion.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  fight.cpp
+  LastVersion.vcxproj -> C:\Users\mohammed\Desktop\final\Debug\Castle.exe
+  LastVersion.vcxproj -> C:\Users\mohammed\Desktop\final\Debug\Castle.pdb (Full PDB)
